@@ -97,10 +97,10 @@ url-pretty: "LegusX.dev"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "UA-157962275-1"
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-157962275-1"
+#google_analytics: "UA-157962275-1"
 
 # Google Tag Manager ID
 #gtm: ""
